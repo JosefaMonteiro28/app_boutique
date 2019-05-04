@@ -1,0 +1,14 @@
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.Applicacion\bin\Debug\Boutique.Applicacion.dll
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.Applicacion\bin\Debug\Boutique.Applicacion.pdb
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.Applicacion\obj\Debug\Boutique.Applicacion.csprojResolveAssemblyReference.cache
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.Applicacion\obj\Debug\Boutique.Applicacion.dll
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.Applicacion\obj\Debug\Boutique.Applicacion.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Applicacion\bin\Debug\Boutique.Applicacion.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Applicacion\bin\Debug\Boutique.Applicacion.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Applicacion\bin\Debug\Boutique.Domain.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Applicacion\bin\Debug\Boutique.RepositoryADO.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Applicacion\bin\Debug\Boutique.Domain.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Applicacion\bin\Debug\Boutique.RepositoryADO.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Applicacion\obj\Debug\Boutique.Applicacion.csprojResolveAssemblyReference.cache
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Applicacion\obj\Debug\Boutique.Applicacion.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Applicacion\obj\Debug\Boutique.Applicacion.pdb

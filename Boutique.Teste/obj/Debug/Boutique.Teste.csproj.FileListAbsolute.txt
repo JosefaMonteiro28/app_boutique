@@ -1,0 +1,20 @@
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.Teste\bin\Debug\Boutique.Teste.exe.config
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.Teste\bin\Debug\Boutique.Teste.exe
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.Teste\bin\Debug\Boutique.Teste.pdb
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.Teste\obj\Debug\Boutique.Teste.csprojResolveAssemblyReference.cache
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.Teste\obj\Debug\Boutique.Teste.exe
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.Teste\obj\Debug\Boutique.Teste.pdb
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.Teste\bin\Debug\Boutique.Domain.dll
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.Teste\bin\Debug\Boutique.RepositoryADO.dll
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.Teste\bin\Debug\Boutique.Domain.pdb
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.Teste\bin\Debug\Boutique.RepositoryADO.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Teste\bin\Debug\Boutique.Teste.exe.config
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Teste\bin\Debug\Boutique.Teste.exe
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Teste\bin\Debug\Boutique.Teste.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Teste\bin\Debug\Boutique.Domain.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Teste\bin\Debug\Boutique.RepositoryADO.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Teste\bin\Debug\Boutique.Domain.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Teste\bin\Debug\Boutique.RepositoryADO.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Teste\obj\Debug\Boutique.Teste.csprojResolveAssemblyReference.cache
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Teste\obj\Debug\Boutique.Teste.exe
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Teste\obj\Debug\Boutique.Teste.pdb

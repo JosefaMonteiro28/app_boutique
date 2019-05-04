@@ -1,0 +1,209 @@
+﻿<Window x:Class="DevAppMAXI.frmHome"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DevAppMAXI"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:metroIcon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+   
+        Title="MAXI" 
+        Width="1600" 
+        Height="820"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen" AllowsTransparency="True" Background="Transparent" >
+
+    <materialDesign:Card Width="1590" Height="820" UniformCornerRadius="5" materialDesign:ShadowAssist.ShadowDepth="Depth2">
+        <materialDesign:Card.Background>
+            <ImageBrush ImageSource="content/fundo.jpg" Stretch="UniformToFill"/>
+        </materialDesign:Card.Background>
+        <materialDesign:DialogHost Name="dialog">
+        <materialDesign:DialogHost.DialogContent>
+            <Grid Height="160" Width="330">
+                <Grid Margin="10 15 10 10">
+
+                    <!--<materialDesign:ColorZone Mode="PrimaryDark" Height="125">-->
+
+                    <WrapPanel>
+                            <materialDesign:PackIcon Kind="Information" Foreground="#E91E63" Width="60" Height="60" Margin="0 6 0 0" VerticalAlignment="Center"/>
+                            <TextBlock Foreground="#000000" Text="Deseja fechar a aplicação ?" FontSize="20" VerticalAlignment="Center" Margin="0 10 0 0"/>
+                    </WrapPanel>
+
+                    <!--</materialDesign:ColorZone>-->
+                        <Separator Background="#E91E63" Margin="0,20,0,0"/>
+                    <WrapPanel HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="10">
+                            <Button Content="Sim" FontSize="14" Foreground="#000000"  Name="btnSim" Margin="10 0" Style="{StaticResource MaterialDesignFlatButton}" Click="btnSim_Click"/>
+                            <Button Name="btnNao" Content="Não" FontSize="14" Foreground="#000000" Click="btnNao_Click" Style="{StaticResource MaterialDesignFlatButton}"/>
+                    </WrapPanel>
+                </Grid>
+            </Grid>
+        </materialDesign:DialogHost.DialogContent>
+        <materialDesign:DrawerHost Name="drMenu" Height="840">
+            <materialDesign:DrawerHost.LeftDrawerContent>
+                <StackPanel>
+                    <materialDesign:Card  Background="Transparent" Padding="10">
+                        <StackPanel>
+                            <materialDesign:Card UniformCornerRadius="15" Width="250" Height="230" materialDesign:ShadowAssist.ShadowDepth="Depth2">
+                                <Image Width="250" Height="230" Source="content/logo.jpg" Stretch="Fill"/>
+                            </materialDesign:Card>
+                            <ListView FontSize="18" ScrollViewer.VerticalScrollBarVisibility="Auto" Height="600" Name="listMenu" SelectionChanged="listMenu_SelectionChanged">
+                                <ListBoxItem>
+                                    <StackPanel Orientation="Horizontal" Margin="10 0">
+                                        <materialDesign:PackIcon Kind="Home" Foreground="Gray" Margin="5" VerticalAlignment="Center" Width="30" Height="30"/>
+                                        <TextBlock Text="Principal" Margin="10"/>
+                                    </StackPanel>
+                                </ListBoxItem>
+
+                                <ListBoxItem>
+                                    <StackPanel Orientation="Horizontal" Margin="10 0">
+                                        <materialDesign:PackIcon Kind="Cart" Foreground="Gray" Margin="5" VerticalAlignment="Center" Width="30" Height="30"/>
+                                        <TextBlock Text="Venda" Margin="10"/>
+                                    </StackPanel>
+                                </ListBoxItem>
+
+                                <ListBoxItem>
+                                    <StackPanel Orientation="Horizontal" Margin="10 0">
+                                            <materialDesign:PackIcon Kind="Shopping" Foreground="Gray" Margin="5" VerticalAlignment="Center" Width="30" Height="30"/>
+                                        <TextBlock Text="Produtos" Margin="10"/>
+                                    </StackPanel>
+                                </ListBoxItem>
+
+                                <ListBoxItem>
+                                    <StackPanel Orientation="Horizontal" Margin="10 0">
+                                            <materialDesign:PackIcon Kind="Book" Foreground="Gray" Margin="5" VerticalAlignment="Center" Width="30" Height="30"/>
+                                        <TextBlock Text="Estoque" Margin="10"/>
+                                    </StackPanel>
+                                </ListBoxItem>
+
+                                <ListBoxItem>
+                                    <StackPanel Orientation="Horizontal" Margin="10 0">
+                                            <materialDesign:PackIcon Kind="Archive" Foreground="Gray" Margin="5" VerticalAlignment="Center" Width="30" Height="30"/>
+                                        <TextBlock Text="Caixa" Margin="10"/>
+                                    </StackPanel>
+                                </ListBoxItem>
+
+                                <ListBoxItem>
+                                    <StackPanel Orientation="Horizontal" Margin="10 0">
+                                            <materialDesign:PackIcon Kind="AccountMultiple" Foreground="Gray" Margin="5" VerticalAlignment="Center" Width="30" Height="30"/>
+                                        <TextBlock Text="Clientes" Margin="10"/>
+                                    </StackPanel>
+                                </ListBoxItem>
+
+                                <ListBoxItem>
+                                    <StackPanel Orientation="Horizontal" Margin="10 0">
+                                            <materialDesign:PackIcon Kind="AccountStar" Foreground="Gray" Margin="5" VerticalAlignment="Center" Width="30" Height="30"/>
+                                        <TextBlock Text="Usúario" Margin="10"/>
+                                    </StackPanel>
+                                </ListBoxItem>
+
+                                    <ListBoxItem>
+                                        <StackPanel Orientation="Horizontal" Margin="10 0">
+                                            <materialDesign:PackIcon Kind="Lock" Foreground="Gray" Margin="5" VerticalAlignment="Center" Width="30" Height="30"/>
+                                            <TextBlock Text="Entrar" Margin="10"/>
+                                        </StackPanel>
+                                    </ListBoxItem>
+
+                                    <ListBoxItem>
+                                    <StackPanel Orientation="Horizontal" Margin="10 0">
+                                            <materialDesign:PackIcon Kind="CloseCircle" Foreground="Gray" Margin="5" VerticalAlignment="Center" Width="30" Height="30"/>
+                                        <TextBlock Text="Sair" Margin="10"/>
+                                    </StackPanel>
+                                </ListBoxItem>
+
+
+                            </ListView>
+                        </StackPanel>
+                    </materialDesign:Card>
+
+                </StackPanel>
+            </materialDesign:DrawerHost.LeftDrawerContent>
+            
+                <Grid Margin="0 10">
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="390"/>
+                        <ColumnDefinition Width="1200"/>
+                        
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="240"/>
+                        <RowDefinition Height="240"/>
+                        <RowDefinition Height="240"/>
+                        <RowDefinition Height="100"/>
+                    </Grid.RowDefinitions>
+                    
+                    
+                    <!--#region LATERAL-->
+                    <materialDesign:Card Grid.RowSpan="2" Background="White" Height="386"  UniformCornerRadius="5" Width="380">
+                        <Grid>
+                            <Grid Height="250" VerticalAlignment="Top">
+                                <Grid.Background>
+                                    <ImageBrush ImageSource="content/logo.jpg" Stretch="Uniform"/>
+                                </Grid.Background>
+                                <Button 
+                                Name="opneMenu"  
+                                Click="opneMenu_Click" 
+                                VerticalAlignment="Top"
+                                HorizontalAlignment="Left"
+                               Width="70" Height="60"
+                                    Background="{x:Null}"
+                                    BorderBrush="{x:Null}"
+                                    Cursor="Hand"
+                                    Foreground="#E91E63"
+                                    >
+                                    <materialDesign:PackIcon Kind="Menu" Height="35" Width="35"/>
+                                </Button>
+                            </Grid>
+
+                            <Ellipse 
+                                Width="130" 
+                                Height="140" 
+                                Stroke="#E91E63" 
+                                Fill="White" 
+                                HorizontalAlignment="Left" 
+                                Margin="30 0 0 20" 
+                                StrokeThickness="4">
+                                
+                            </Ellipse>
+                            <TextBlock 
+                                Name="letterTimer" 
+                                VerticalAlignment="Center" 
+                                Margin="40 -32 0 0" 
+                                FontSize="44" 
+                                Foreground="#E91E63" 
+                                FontWeight="ExtraLight">08h30</TextBlock>
+
+
+
+
+
+
+                            <StackPanel Margin="10 280 10 0" Width="360" HorizontalAlignment="Center">
+                                <Separator/>
+                                <TextBlock FontSize="18"><Bold>Funcionário : </Bold> 2A</TextBlock>
+                                        <Separator/>
+
+                                        <TextBlock FontSize="18"><Bold>Nome : </Bold> Dorivaldo dos Santos</TextBlock>
+                                        <Separator/>
+
+                                        <TextBlock FontSize="18"><Bold>Cargo : </Bold> Secretário</TextBlock>
+                                 
+                            </StackPanel>
+                        </Grid>
+                    </materialDesign:Card>
+                    <!--#endregion-->
+
+                    <Grid 
+                        Grid.Column="1" 
+                        Background="Transparent"  
+                        Grid.RowSpan="4" 
+                        Name="container"
+                        />
+                </Grid>
+            
+        </materialDesign:DrawerHost>
+    </materialDesign:DialogHost>
+    </materialDesign:Card>
+</Window>

@@ -1,0 +1,16 @@
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.RepositoryADO\bin\Debug\Boutique.RepositoryADO.dll
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.RepositoryADO\bin\Debug\Boutique.RepositoryADO.pdb
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.RepositoryADO\obj\Debug\Boutique.RepositoryADO.dll
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.RepositoryADO\obj\Debug\Boutique.RepositoryADO.pdb
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.RepositoryADO\bin\Debug\Boutique.RepositoryADO.dll.config
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.RepositoryADO\bin\Debug\Boutique.Domain.dll
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.RepositoryADO\bin\Debug\Boutique.Domain.pdb
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.RepositoryADO\obj\Debug\Boutique.RepositoryADO.csprojResolveAssemblyReference.cache
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.RepositoryADO\bin\Debug\Boutique.RepositoryADO.dll.config
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.RepositoryADO\bin\Debug\Boutique.RepositoryADO.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.RepositoryADO\bin\Debug\Boutique.RepositoryADO.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.RepositoryADO\bin\Debug\Boutique.Domain.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.RepositoryADO\bin\Debug\Boutique.Domain.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.RepositoryADO\obj\Debug\Boutique.RepositoryADO.csprojResolveAssemblyReference.cache
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.RepositoryADO\obj\Debug\Boutique.RepositoryADO.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.RepositoryADO\obj\Debug\Boutique.RepositoryADO.pdb

@@ -1,0 +1,9 @@
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.Domain\bin\Debug\Boutique.Domain.dll
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.Domain\bin\Debug\Boutique.Domain.pdb
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.Domain\obj\Debug\Boutique.Domain.dll
+C:\Users\josefa\Documents\Visual Studio 2015\Projects\Boutique\Boutique.Domain\obj\Debug\Boutique.Domain.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Domain\bin\Debug\Boutique.Domain.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Domain\bin\Debug\Boutique.Domain.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Domain\obj\Debug\Boutique.Domain.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Domain\obj\Debug\Boutique.Domain.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2015\Projects\CursoAsp.Net\DevAppBoutique\Boutique.Domain\obj\Debug\Boutique.Domain.csprojResolveAssemblyReference.cache
